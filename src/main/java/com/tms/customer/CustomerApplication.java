@@ -8,6 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 import com.tms.customer.filters.JWTFilter;
 
+//spring boot application class
 @SpringBootApplication
 @EnableFeignClients
 public class CustomerApplication {
